@@ -1,2 +1,2 @@
 var count="tet";
-connsole.log(coutn);
+connsole.log(count);
